@@ -96,6 +96,7 @@ struct ContentView: View {
         ("Submit A Mod", "https://forms.gle/aWVrD8SiwuLpYHUr8"),
         ("itch", "https://jackww51.itch.io/iceygame"),
         ("GRAB Level", "https://grabvr.quest/levels/viewer/?level=2dahfrbinl80vn8h8u754:1725132872")
+        ("Blog", "https://sites.google.com/view/icelabs/blog")
     ]
 
     var body: some View {
